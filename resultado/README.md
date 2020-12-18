@@ -3,7 +3,7 @@
 En este directorio se incluye el cuaderno para reproducir el archivo CSV presentado con los resultados de la competencia así como otros archivos adicionales requeridos o que puedan resultar de interés.
 
 - [Notebook (se recomienda utilizar link de Colab, más abajo)](SolucionModeloFinal.ipynb)
-- [Exportación a PDF de Notebook (ejecución en Colab)](SolucionModeloFinal.ipynb - Colaboratory.pdf)
+- [Exportación de ejecución de Notebook en Colab a PDF](SolucionModeloFinal.ipynb - Colaboratory.pdf)
 - [CSV final](submit_CNN1D_12_10_2020_02_03_24_0.45417197181903063.csv)
 - [Imágenes con curvas de cultivos](curvas_cultivos)
 
